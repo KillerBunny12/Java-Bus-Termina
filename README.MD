@@ -1,5 +1,5 @@
 # Java Bus terminal
- Simple Twitter-esque Social Webpage
+ Simple bus terminal app made in Java
  
 This was a project i made for college.
 This is a simple bus terminal app i made in Java, it lets u create,modify and delete buses from the terminal, as well as see their current parking slot. This app also lets u start routes for the buses as well as rent turism buses.
